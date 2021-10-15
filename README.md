@@ -1,7 +1,6 @@
-# Alias Bricktech2000 &middot; BlackBot7 &middot; TechnoViper
+# Emilien Breton
 
 📝Current Computer Science student at uOttawa
 
-> Checkout my website at <https://emilien.ca/>
->
-> Get my socials at <https://edgie.emilien.ca/>
+Checkout my website at <https://emilien.ca/> &middot;
+Get my socials at <https://edgie.emilien.ca/>
