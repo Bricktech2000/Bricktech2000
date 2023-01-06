@@ -1,6 +1,6 @@
 # Emilien Breton
 
-Computer Science Student at the University of Ottawa
+Software Engineer
 
 <p align=center>
   <b>
